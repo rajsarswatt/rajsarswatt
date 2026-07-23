@@ -2,23 +2,6 @@
 🛡️ **Cybersecurity Learner** | 👨‍💻 **Ethical Hacking** | 🐧 **Linux Enthusiast**<br><br>🔹 Certified in **Ethical Hacking, IoT Security & Network Security**<br>💻 Skilled in **Linux, Python, SQL & C**<br>☕ Currently learning **Java**<br>🚀 Passionate about cybersecurity, continuous learning, and building practical security skills.<br>
 
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%F0%9D%90%91-%F0 %9D%90%80-%F0%9D%90%89-a4167837b) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rajsarswatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rajsarswatt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajsarswatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=rajsarswatt&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajsarswatt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B0kaM9smtRqmGSX%2BUyZQtEw%3D%3D) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rajsarswatt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajsarswatt) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@rajsarswatt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raj.education.use@gmail.com) 
 
