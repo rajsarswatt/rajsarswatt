@@ -1,5 +1,22 @@
-# 💫 About Me:
+ # 💫 About Me:
 🛡️ **Cybersecurity Learner** | 👨‍💻 **Ethical Hacking** | 🐧 **Linux Enthusiast**<br><br>🔹 Certified in **Ethical Hacking, IoT Security & Network Security**<br>💻 Skilled in **Linux, Python, SQL & C**<br>☕ Currently learning **Java**<br>🚀 Passionate about cybersecurity, continuous learning, and building practical security skills.<br>
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%F0%9D%90%91-%F0 %9D%90%80-%F0%9D%90%89-a4167837b) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rajsarswatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rajsarswatt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajsarswatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=rajsarswatt&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
 
 ## 🌐 Socials:
