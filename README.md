@@ -5,5 +5,5 @@ Hii dear Welcome (•‿•̀)
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-stats-97xpc4r09-hcrrrr.vercel.app/api?username=rajsarswatt&show_icons=true&theme=radical" alt="GitHub Stats](https://github-readme-stats-97xpc4r09-hcrrrr.vercel.app/api?username=rajsarswatt&show_icons=true&theme=radical)">
+  <img src="https://github-readme-stats-97xpc4r09-hcrrrr.vercel.app/api?username=rajsarswatt&show_icons=true&theme=radical" alt="GitHub Stats(https://github-readme-stats-97xpc4r09-hcrrrr.vercel.app/api?username=rajsarswatt&show_icons=true&theme=radical)">
 </p>
