@@ -1,7 +1,7 @@
 Hii dear Welcome (•‿•̀)
 
 <p align="center">
-  <img src="./IMG_20260921_183246_271.png" width="20%" alt="Profile Banner">
+  <img src="./IMG_20260921_183246_271.png" width="40%" alt="Profile Banner">
 </p>
 
 <p align="center">
