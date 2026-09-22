@@ -7,3 +7,7 @@ Hii dear Welcome (•‿•̀)
 <p align="center">
   <img src="https://github-readme-stats-97xpc4r09-hcrrrr.vercel.app/api?username=rajsarswatt&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rajsarswatt&theme=radical" alt="GitHub Streak">
+</p>
