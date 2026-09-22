@@ -1,5 +1,36 @@
 Hii dear Welcome (•‿•̀)
 
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  Hi! I'm <b>Raj Sharma</b> 👋<br>
+  🎓 BCA in Cyber Security — Currently Pursuing<br>
+  🔐 Cybersecurity & Ethical Hacking Enthusiast<br>
+  🌐 Interested in Networking & Security<br>
+  💻 Always Learning • Building • Exploring
+</p>
+
+
+<h2 align="center">🛠️ Skills & Technologies</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+<p align="center">
+  🔐 Ethical Hacking &nbsp;•&nbsp;
+  🌐 Networking &nbsp;•&nbsp;
+  🛡️ Cybersecurity
+</p>
+
+
+
+
+
 <p align="center">
   <img src="./IMG_20260921_183246_271.png" width="50%" alt="Profile Banner">
 </p>
