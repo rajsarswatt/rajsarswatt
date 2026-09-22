@@ -11,3 +11,7 @@ Hii dear Welcome (•‿•̀)
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rajsarswatt&theme=radical" alt="GitHub Streak">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-97xpc4r09-hcrrrr.vercel.app/api/top-langs/?username=rajsarswatt&layout=compact&theme=radical" alt="Top Languages">
+</p>
